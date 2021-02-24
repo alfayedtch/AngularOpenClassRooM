@@ -1,0 +1,4 @@
+Bonjour je m'appelle Al-Fayed TCHAGNAO. Je suis Etudiant ingenieur à l'universite de technologies de Belfort-Montbeliard.
+Aujourd'hui le 24 fevrier 2021, je me donne un challenge; celui de terminer l'apprentissage de Angular sur open classerrooms en 1 semaine.Je devrais donc finir au 03 mars au plus tard. Sur ce Salut. Je ferai une mise à jour quotidienne de mon avancement dans ce fichier.
+ 
+Commebçons aujourd'hui le 24 par une mise à jour sur l'utilisation de GIT. J'apprends donc les bonnes manieres pour bien utiliser git
